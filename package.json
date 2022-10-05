@@ -1,0 +1,15 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "This is the example application for the book _Mastering Test-Driven Development for React_.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
